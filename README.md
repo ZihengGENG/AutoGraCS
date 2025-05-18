@@ -1,0 +1,2 @@
+This repository contains the implementation of AutoGraCS, a framework that automates the generation of knowledge graphs (KGs) for complex systems using user-defined ontologies, rules, and databases. 
+The approach is presented in the following paper: Cheng, M., Shah, S. M., Nanni, A., & Gao, H. O. (2024). Automated knowledge graphs for complex systems (AutoGraCS): Applications to management of bridge networks. Resilient Cities and Structures, 3(4), 95-106.
