@@ -17,7 +17,7 @@ F. [Update Log](#f-update-log)
 **Description of the Code:** This code contains the implementation of AutoGraCS, a framework that automates the generation of knowledge graphs (KGs) for complex systems using user-defined ontologies, rules, and databases.  
 
 **Paper Archive Link:** <https://doi.org/10.1016/j.rcns.2024.11.001>      
-**Dataset Archive Link: https://doi.org/10.5281/zenodo.12741321
+**Dataset Archive Link:** <https://doi.org/10.5281/zenodo.12741321>
 
 **Authorship Information:**  
 
